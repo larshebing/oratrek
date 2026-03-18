@@ -1,12 +1,12 @@
-# 🚴 veloq – Deine intelligente Fahrrad-Tracking-Lösung
+# 🚴 oratrek – Deine intelligente Fahrrad-Tracking-Lösung
 
-## Was ist veloq?
+## Was ist oratrek?
 
-**veloq** ist eine moderne, benutzerfreundliche App für Android (und später iOS), die deine Fahrradtouren automatisch erfasst und analysiert. Mit GPS-Präzision und intelligenter Sensor-Integration erhalten Radfahrer, Trainer und Fitness-Enthusiasten umfassende Echtzeit-Daten über ihre Aktivitäten.
+**oratrek** ist eine moderne, benutzerfreundliche App für Android (und später iOS), die deine Fahrradtouren automatisch erfasst und analysiert. Mit GPS-Präzision und intelligenter Sensor-Integration erhalten Radfahrer, Trainer und Fitness-Enthusiasten umfassende Echtzeit-Daten über ihre Aktivitäten.
 
 ---
 
-## 🎯 Für wen ist veloq gedacht?
+## 🎯 Für wen ist oratrek gedacht?
 
 ### Freizeitra­dfahrer
 - Tracking deiner Lieblingsstrecken
@@ -95,11 +95,11 @@ Wir arbeiten ständig an Verbesserungen:
 
 ## ❓ Häufig gestellte Fragen
 
-**P: Funktioniert veloq auch ohne Sensoren?**  
+**P: Funktioniert oratrek auch ohne Sensoren?**  
 A: Ja! Die App zeichnet automatisch GPS-Daten auf. BLE-Sensoren sind optional für erweiterte Metriken.
 
 **P: Brauche ich eine Internetverbindung?**  
-A: Ja. veloq nutzt online Kartendaten.
+A: Ja. oratrek nutzt online Kartendaten.
 
 **P: Kann ich mehrere Profile haben?**  
 A: Ja! Erstelle unlimitierte Profile für verschiedene Aktivitäten und wechsle je nach Bedarf.
@@ -111,9 +111,9 @@ A: Die App nutzt standardmäßige GPS-Genauigkeit deines Geräts mit Messungen a
 
 ## 📞 Support & Feedback
 
-Hast du Fragen oder Verbesserungsvorschläge? Kontaktiere uns oder öffne ein Issue im [GitHub Repository](https://github.com/larshebing/veloq-Tracker).
+Hast du Fragen oder Verbesserungsvorschläge? Kontaktiere uns oder öffne ein Issue im [GitHub Repository](https://github.com/larshebing/oratrek).
 
 ---
 
-**veloq – Track your ride. Analyze your performance. Enjoy the journey.** 🚴‍♂️
+**oratrek – Track your ride. Analyze your performance. Enjoy the journey.** 🚴‍♂️
 
