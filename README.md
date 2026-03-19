@@ -78,10 +78,15 @@ Speichere Einstellungen für verschiedene Aktivitätstypen:
 ## 💡 Warum oratrek?
 
 ✅ **Zuverlässig & Stabil** – Produktiv getestet auf Android, App kann geschlossen werden oder Bildschirm ausgeschaltet werden
+
 ✅ **Daten im Fokus** – Keine Ablenkungen, nur die Metriken die zählen  
+
 ✅ **Kein Internet während Aktivität notwendig** – Kartendaten werden kostenlos vorab heruntergeladen und Abbiegehinweise einmalig online bei Routenimport generiert
+
 ✅ **Datenschutz** – Deine Aktivitätsdaten bleiben auf deinem Gerät und werden nicht von uns genutzt
+
 ✅ **Für Anfänger & Profis** – Einfach zu bedienen, Fokus auf Akkueffizienz  
+
 ✅ **Kleines Entwicklungsteam** – Die App ist von einem sehr kleinen Team aus Deutschland entwickelt worden, die große Freude am Radfahren haben, und es jedem ermöglichen wollen, ohne Akkusorgen eine Route abzufahren und Trainingsdaten einzusehen, ohne ein extra Gerät dafür kaufen zu müssen
 
 ---
@@ -108,6 +113,9 @@ A: Ja! Erstelle unlimitierte Profile für verschiedene Aktivitäten und wechsle 
 
 **P: Wie genau ist das GPS-Tracking?**  
 A: Die App nutzt standardmäßige GPS-Genauigkeit deines Geräts mit Messungen alle 2 Sekunden für hohe Präzision. Dies kannst du auch in den Einstellungen auf deinen Bedürfnisse anpassen.
+
+**P: Wer hat oratrek entwickelt?**  
+A: Wir sind ein sehr kleines Team von Sportbegeisterten, die es jedem ermöglichen wollen, die eigenen Aktivitäten zu tracken. Uns hat es gestört, dass man sich gerade beim Radfahren eine extra Gerät kaufen muss oder eine nicht genau passende App-Lösung bezahlen muss, die gleichzeitig sehr schnell den Akku des eigenen Smartphones verbraucht.
 
 ---
 
