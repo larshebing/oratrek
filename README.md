@@ -77,7 +77,7 @@ Speichere Einstellungen für verschiedene Aktivitätstypen:
 
 ## 💡 Warum oratrek?
 
-✅ **Zuverlässig & Stabil** – Produktiv getestet auf Android, App kann geschlossen werden oder Bildschirm ausgeschaltet werden 
+✅ **Zuverlässig & Stabil** – Produktiv getestet auf Android, App kann geschlossen werden oder Bildschirm ausgeschaltet werden
 ✅ **Daten im Fokus** – Keine Ablenkungen, nur die Metriken die zählen  
 ✅ **Kein Internet während Aktivität notwendig** – Kartendaten werden kostenlos vorab heruntergeladen und Abbiegehinweise einmalig online bei Routenimport generiert
 ✅ **Datenschutz** – Deine Aktivitätsdaten bleiben auf deinem Gerät und werden nicht von uns genutzt
