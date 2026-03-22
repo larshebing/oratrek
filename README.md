@@ -115,7 +115,7 @@ A: Ja! Erstelle unlimitierte Profile für verschiedene Aktivitäten und wechsle 
 A: Die App nutzt standardmäßige GPS-Genauigkeit deines Geräts mit Messungen alle 2 Sekunden für hohe Präzision. Dies kannst du auch in den Einstellungen auf deinen Bedürfnisse anpassen.
 
 **P: Wer hat oratrek entwickelt?**  
-A: Wir sind ein sehr kleines Team von Sportbegeisterten, die es jedem ermöglichen wollen, die eigenen Aktivitäten zu tracken. Uns hat es gestört, dass man sich gerade beim Radfahren eine extra Gerät kaufen muss oder eine nicht genau passende App-Lösung bezahlen muss, die gleichzeitig sehr schnell den Akku des eigenen Smartphones verbraucht.
+A: Wir sind ein sehr kleines Team von Sportbegeisterten, die es jedem ermöglichen wollen, die eigenen Aktivitäten zu tracken. Uns hat es gestört, dass man sich gerade beim Radfahren ein extra Gerät kaufen muss oder eine nicht genau passende App-Lösung bezahlen muss, die gleichzeitig sehr schnell den Akku des eigenen Smartphones verbraucht.
 
 ---
 
