@@ -71,7 +71,7 @@ Speichere Einstellungen für verschiedene Aktivitätstypen:
 ## ✨ Weitere Funktionen
 
 - Integration mit Strava möglich für automatische Uploads
-- Export deiner Aktivitäten als .fit Datei
+- Export deiner Aktivitäten als FIT Datei
 
 ---
 
