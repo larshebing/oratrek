@@ -121,7 +121,7 @@ A: Wir sind ein sehr kleines Team von Sportbegeisterten, die es jedem ermöglich
 
 ## 📞 Support & Feedback
 
-Hast du Fragen oder Verbesserungsvorschläge? Kontaktiere uns unter veloq.tracker@gmail.com oder öffne ein Issue im [GitHub Repository](https://github.com/larshebing/oratrek).
+Hast du Fragen oder Verbesserungsvorschläge? Kontaktiere uns unter oratrek@gmail.com oder öffne ein Issue im [GitHub Repository](https://github.com/larshebing/oratrek).
 
 ---
 
